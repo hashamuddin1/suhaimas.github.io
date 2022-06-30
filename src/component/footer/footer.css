@@ -1,0 +1,59 @@
+.flink {
+    display: block;
+    /* border: 1px solid; */
+    /* width: 200px !important; */
+    text-align: left;
+    /* border: 1px solid green; */
+    /* justify-content: space-evenly; */
+    margin: 0% 0% 0% -10%;
+    /* margin-left: 20%; */
+    /* margin-right:5% ; */
+    /* background-color: black; */
+    color: white
+}
+
+h1 {
+    color: white;
+}
+
+.containerfoot {
+    /* display: inline-block; */
+    /* border: 1px solid green; */
+    /* justify-content: space-between !important; */
+    /* position: sticky;
+    top: 100%; */
+    /* bottom: 0%; */
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 90%;
+    /* align-items: center;
+    align-self: center; */
+    background-color: black;
+    color: white;
+}
+
+.container-foot {
+    display: flex;
+    /* border: 1px solid green; */
+    justify-content: space-evenly !important;
+    width: 100%;
+}
+
+.container-foot-div {
+    /* border: 1px solid red; */
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    /* margin: 0% 10% 0% -8% */
+}
+
+h4 {
+    color: white;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .flink {
+        display: none;
+    }
+}

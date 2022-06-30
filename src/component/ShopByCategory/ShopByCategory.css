@@ -1,0 +1,16 @@
+.Category-main-ul {
+    list-style-type: none;
+}
+
+.Category-main {
+    background-color: white !important;
+    /* background-color: white !important; */
+    width: 55%;
+    /* position:absolute; left:3%; top:21.9% */
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .Category-main {
+        display: none;
+    }
+}

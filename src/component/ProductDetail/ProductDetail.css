@@ -1,0 +1,551 @@
+.ProcartImg-1{
+    width: 80%;
+}
+
+.Prorte{
+    text-align: left;
+    margin-left: 2%;
+}
+
+.ProHead{
+    text-align: left;
+    margin-left: 2%;
+    font-weight: bolder !important;
+    font-size: 27px;
+}
+
+.ProPprice{
+    text-align: left;
+    margin-left: 2%;
+}
+
+.ProSize{
+    text-align: left;
+    margin-left: 2%;
+    width:60%;
+    margin-bottom: 2%;
+}
+
+/* .ProColorClick::{
+    border: 1px solid red;
+} */
+
+.ProPquan{
+    text-align: left;
+    margin-left: 2%;
+}
+
+.ProPquan6{
+    font-size: 25px;
+    font-weight:normal;
+    /* color:#f57224 ;s */
+}
+
+.ProPpriceh6{
+    font-size: 28px;
+    font-weight:normal;
+    color:#f57224 ;
+}
+.ProcountBtnP{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    margin-left: 2%;
+}
+.ProPQuantity{
+    font-size: 18px;
+}
+.ProcountbtnP{
+    color: #f57224 !important;
+    font-size: 25px !important;
+    /* background-color:#f1945e !important; */
+}
+.PropBTN{
+    margin-top: 4%;
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    /* border: 1px solid aqua; */
+}
+.btnLog-2{
+    color: white !important;
+    /* width: 100% !important; */
+    background-color: #f57224 !important;
+    margin: 0 !important;
+    height: 48px !important;
+    padding: 0 36px!important;
+    font-size: 14px !important;
+    line-height: 46px !important;
+    border-width: 1px!important;
+    font-weight: bold !important;
+}
+.strike{
+    text-decoration-line:line-through;
+}
+.ProReview-main{
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.review-input{
+    display:flex !important;
+    flex-direction: row !important;
+    /* align-items: center !important; */
+}
+
+
+.Ava{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+
+.Ava-Main{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.Ava-div{
+    /* border: 1px solid black; */
+    /* display:flex !important;
+    flex-direction: row !important;
+    align-items: center; */
+    /* margin: 0; */
+}
+
+.Ava-head{
+    /* display:inline !important; */
+    /* border: 1px solid black; */
+    margin-left: 5%;
+    line-height:1ch;
+    /* width: 50%; */
+    /* border: 1px solid black; */
+}
+
+.Ava-head>h3{
+    font-size: 20px;
+    font-weight:600;
+}
+/* .Ava-head>div{ */
+    /* display: flex !important; */
+    /* flex-wrap: wrap !important; */
+    /* height: 4em !important;
+    font-size: 12px;
+    font-weight:400;
+    border: 1px solid black;
+    width: 50%; */
+/* } */
+/* .par{
+    max-width: 30%;
+    border: 1px solid black;
+    height: 4em !important;
+
+} */
+.Ava-rate{
+    /* border: 1px solid black; */
+    /* display:flex; */
+
+    /* left: 100px; */
+    
+    /* margin-left: 40%; */
+    /* justify-content: flex-end; */
+    /* float: right; */
+    /* position: relative; */
+    /* left: 100px; */
+    /* text-align: right; */
+}
+
+
+.proDes{
+    text-align: left !important;
+    margin-left: 2.5% !important;
+    margin-bottom: 3% !important;
+}
+
+
+.proCountBtn{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    /* justify-content: space-between !important; */
+}
+.proCountbtn{
+    /* justify-content: space-between */
+    /* width: auto !important; */
+    color: #f57224 !important;
+    font-size: 19px !important;
+    /* background-color: rgb(232, 232, 235); */
+    
+}
+
+/* ................................................................................................................ */
+
+
+
+
+
+
+.Propera{
+    width: 50%;
+    text-align: left;
+}
+.divProLog{
+    /* display: inline !important; */
+
+    /* text-align: center !important; */
+    /* justify-content: center !important; */
+    /* align-self: center; */
+    /* align-content: center !important; */
+    /* align-items: center !important; */
+    /* width: auto !important; */
+
+
+    /* margin-left:  auto !important; */
+    text-align: center !important;
+    /* width: 350px !important; */
+    margin: 50px auto !important;
+}
+
+/* .divProHead{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.divProHead >h1{
+    font-size: 22px;
+}
+
+.divHead >p{
+    font-size: 16px;
+    margin-right: 15%;
+} */
+
+.divProForm{
+    /* position: absolute; */
+    text-align: center !important;
+    /* width: 350px !important; */
+    width: 90%;
+    margin: 50px auto !important;
+    /* height: 150px; */
+    padding-top: 2%;
+    padding-bottom: 2%;
+    /* background-color: #f8f4f4; */
+    /* -webkit-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+    /* -moz-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+    /* box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.35); */
+}
+/* .datepicker {
+    margin: 2px 0px 2px 0px;
+    height: 60px;
+    width: fit-content;
+    padding: 20px 15px 10px;
+    border-bottom: 2px solid "$lightGrey";
+    background-color: #fff;
+    color: #2c2c2c;
+    width: 300px;
+    font-weight: 600;
+  } */
+
+  .pro-div{
+    text-align: center !important;
+    width: 70em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    /* width: 100% !important; */
+/* border: 1px solid red; */
+    /* margin: 50px 50px !important; */
+    /* height: 150px; */
+    /* padding-top: 2%;
+    padding-bottom: 2%; */
+    /* background-color: #f8f4f4; */
+    /* -webkit-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+    /* -moz-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+    /* box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.35); */
+  }
+
+  .pro-div-m1{
+      display: flex;
+      flex-direction: row;
+      /* justify-content: center; */
+      /* padding: 10px; */
+  }
+  .pro-div-m1>div{
+      text-align: left;
+      margin-right:15% ;
+      margin-left: 2%;
+      line-height: 0;
+  }
+  .pro-div-m1>div>h6{
+      font-size: 12px !important;
+      font-family: serif;
+      /* text-align: left; */
+      /* margin-right:15% ; */
+      /* margin-left: 2%; */
+
+  }
+  .pro-div-m1>div>p{
+      font-size: 14px !important;
+      font-weight: 600;
+      /* font-family:Arial, Helvetica, sans-serif; */
+      /* text-align: left; */
+      /* margin-right:15% ; */
+      /* margin-left: 2%; */
+
+  }
+  .pro-div-m2{
+      display: flex;
+      flex-direction: row;
+      /* justify-content: center; */
+    }
+    .pro-div-m2>div{
+        /* border: 1px solid; */
+        text-align: left;
+        margin-right:15% ;
+        margin-left: 2%;
+        line-height: 0;
+    }
+    .pro-div-m2>div>h6{
+        font-size: 12px !important;
+        font-family: serif;
+        /* text-align: left; */
+        /* margin-right:15% ; */
+        /* margin-left: 2%; */
+  
+    }
+    .pro-div-m2>div>p{
+        font-size: 14px !important;
+        font-weight: 600;
+        /* font-family:serif; */
+        /* text-align: left; */
+        /* margin-right:15% ; */
+        /* margin-left: 2%; */
+  
+    }
+    .head-pro{
+        text-align: left;
+        margin-left: 2%;
+        font-family:Tahoma;
+    }
+
+    .pro-div-btn{
+        margin-top: 2%;
+        /* border: 1px solid; */
+        text-align: left;
+        /* margin-right:15% ; */
+        margin-left: 1.5%;
+    }
+
+    .btnLog-pro{
+        color: white !important;
+        width: 10%;
+        background-color: #f57224 !important;
+        /* margin: 0 !important; */
+        height: 48px !important;
+        /* padding: 0 36px!important; */
+        font-size: 13px !important;
+        /* line-height: 46px !important; */
+        /* border-width: 1px!important; */
+        font-weight: bold !important;
+        margin-bottom: 2% !important;
+    }
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .Progrid
+    {
+        display: inline !important;
+        align-self: center !important;
+
+        /* flex-direction: column !important; */
+        /* width: 100% !important; */
+        /* border: 1px solid red !important; */
+        /* align-items: center !important; */
+        /* padding-left: 120px !important; */
+
+    }
+    .gridPro-1{
+        /* border:  1px solid orangered; */
+        /* display: inline-block !important; */
+        /* flex-direction: column; */
+        /* text-align: center !important; */
+        /* align-content: center !important; */
+        /* width: 100%; */
+    }
+    .ProcartImg-1{
+        width: 90%;
+    }
+    .ProHead{
+        font-size: 18px;
+        text-align: left;
+        margin-left: 2%;
+        font-weight: 200 !important;
+    }
+    .ProCart-Main-1{
+        margin-left: 2%;
+    }
+    
+    .ProPpriceh6{
+        font-size: 18px;
+    }
+
+
+    .ProSize{
+        /* text-align: left;
+        margin-left: 2%; */
+        width:90%;
+        /* margin-bottom: 2%; */
+    }
+
+    .btnLog{
+        width: 100% !important;
+        /* align-self: center !important; */
+        /* margin-left: 50px !important; */
+    }
+    .btnLog2{
+        width: 100%;
+    }
+    .btnLog3{
+        width: 100%;
+    }
+
+    .divProLog{
+        /* align-items: center !important; */
+        /* display: inline-flexbox; */
+        /* width: 100%; */
+        /* margin: auto; */
+        /* text-align: center !important;
+        left: 20px !important; */
+    }
+    /* .divHead{
+        margin-left: 10px;
+    } */
+    /* .divHead>h1{
+        font-size: 18px;
+    }
+    .divHead >p{
+        font-size: 12px;
+        margin-right: 15%;
+    } */
+    .divProForm{
+        /* border: 1px solid red; */
+        width: 100% !important;
+        text-align: center !important;
+        /* align-content: center; */
+        /* justify-self: center !important; */
+        /* align-items: center !important; */
+        /* margin: 0; */
+        /* align-content: center !important; */
+        /* margin-left: 120px !important; */
+        /* border: 1px solid aqua; */
+        /* padding-left: 100px !important; */
+    }
+    .gridPro-grid{
+        /* border: 1px solid aqua; */
+        width: 100%;
+    }
+    .ProCart-Main{
+        /* border: 1px solid blue; */
+        width: 100%;
+    }
+    .inputGrid{
+        margin-left: 13% !important;
+        /* border: 1px solid aqua; */
+        /* justify-items: center !important; */
+    /* align-content: center !important; */
+    /* width: 90%; */
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
+    }
+    .ProperaGrid{
+        margin-left: 33% !important;
+    }
+    .ProbtnGrid{
+        margin-left: 23% !important;
+    }
+    .Propera{
+        margin-left: 30% !important;
+        font-size: small;
+    }
+    .linkReg{
+        text-decoration: none !important;
+        color: blue !important;
+    }
+    .pro-div-m1{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        /* padding: 10px; */
+    }
+    .pro-div-m2{
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        /* padding: 10px; */
+    }
+    .pro-div{
+        width: auto !important;
+    }
+    .proCountBtn{
+        /* display:flex !important;
+        flex-direction: column !important; */
+        /* align-items: center !important; */
+        /* width: 0ch !important; */
+        /* border: 1px solid rgb(16, 17, 15); */
+        }
+
+        .proCountbtn{
+            font-size: 15px !important;
+            /* font-weight: bold !important; */
+            /* width: 2% !important; */
+            /* border: 1px solid olivedrab !important; */
+        }
+
+
+        
+}
+
+
+
+
+/* ............................................................................................................. */
+
+.signPera{
+    font-size: 10px;
+    text-align: left;
+}
+
+.checkSpan{
+    font-size: 11px;
+    /* line-height: 0%; */
+}
+
+.divCheck{
+    /* border: 1px solid red; */
+    text-align: left;
+}
+.emailGrid-Div{
+    text-align: left;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .emailGridDiv{
+        /* left: 25%; */
+        /* margin-right: 20%; */
+        /* border: 2px solid green !important; */
+        width: 100% !important;
+        /* align-items: center; */
+    }
+    .datePick{
+        margin-left: 20%;
+        width: 100%;
+        /* text-align: center !important; */
+        /* border: 2px solid green; */
+    }
+    .Gender{
+        margin-left: 34%;
+    }
+}

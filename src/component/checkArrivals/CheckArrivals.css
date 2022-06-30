@@ -1,0 +1,35 @@
+/* .containerAs{ */
+    /* border: 2px solid red !important; */
+    /* background-color: orange;
+    width: 100%; */
+     
+/* } */
+.artypo{
+    font-size: 14px !important;
+    /* line-height: 0.5 !important; */
+    text-align: left;
+    /* border: 1px solid teal !important; */
+    margin-left: 5% !important;
+    height:60px;
+    line-height:20px; /* Height / no. of lines to display */
+    overflow:hidden;
+}
+
+.spec-ari{
+    font-size: 8px;
+    /* text-align: left !important; */
+    /* justify-content: left; */
+}
+
+.ari-spce-div{
+    /* border: 1px solid teal !important; */
+    text-align: left;
+    margin-left: 5% !important;
+}
+
+.cardSli-a{
+          /* border: 1px solid rgb(110, 109, 109); */
+        /* width: 95%; */
+        /* margin-left: 12% !important; */
+        /* margin-right: 12% !important; */
+}

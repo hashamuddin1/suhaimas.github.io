@@ -1,0 +1,253 @@
+.cartImg{
+    width: 17% !important;
+    /* border: 1px solid red; */
+}
+
+.Cart-Main{
+    display:flex !important;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    /* margin-left: -10px !important; */
+
+}
+.Cart-Main-1{
+    /* background-color: white; */
+}
+.head4{
+    font-size: 13px;
+
+    /* width: 100%; */
+}
+
+.cart-pera{
+    font-size: 10px;
+    /* width: 100%; */
+}
+.head4Div{
+    /* align-content: center; */
+    /* display:inline- !important; */
+    text-align: center;
+    /* width: 100%; */
+}
+.countBtn{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    /* justify-content: space-between !important; */
+}
+.countbtn{
+    /* justify-content: space-between */
+    /* width: auto !important; */
+    color: #f57224 !important;
+    font-size: 19px !important;
+    /* background-color: rgb(232, 232, 235); */
+    
+}
+.countbtn1{
+    background-color:#f57224 !important;
+    /* width: auto !important; */
+    color: #e7e3e1 !important;
+    font-size: 15px !important;
+}
+
+.rs{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    margin-top: -25px;
+    justify-content: space-between!important;
+    margin-right: 4%;
+    margin-left: 4%;
+}
+.frmBtn{
+    display:flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between!important;
+    margin-top: -25px;
+    margin-bottom: 5%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.countbtn2{
+    background-color:#f57224 !important;
+    width: 100% !important;
+    color: #e7e3e1 !important;
+    font-size: 15px !important;
+    /* align-content: center !important; */
+    /* margin-right: -2%; */
+    /* margin-left: 5%; */
+}
+.countbtn-2{
+    /* align-items: center !important; */
+    /* border: 1PX solid RED; */
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    
+}
+.divForm-Cart{
+        /* position: absolute; */
+        text-align: center !important;
+        /* width: 350px !important; */
+        width: 90%;
+        margin: 50px auto !important;
+        /* height: 150px; */
+        padding-top: 2%;
+        padding-bottom: 2%;
+        background-color: #f8f4f4;
+        /* -webkit-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+        /* -moz-box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.75); */
+        box-shadow: -1px 9px 18px 0px rgba(0,0,0,0.35);
+}
+/* .Head-form-1{
+    text-align: left;
+    border: 1px solid red;
+} */
+.formDBtn{
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.formDBtn2{
+    background-color:#f57224 !important;
+    width: 30ch !important;
+    color: #e7e3e1 !important;
+    font-size: 15px !important;
+}
+
+.ChekHead-form-1{
+    text-align: center;
+}
+.Chekgrid-1{
+    /* border: 1px solid aqua; */
+    width: 100%;
+}
+
+.Chekgrid-grid{
+    /* border: 1px solid aqua; */
+}
+
+
+.ChekformDBtn{
+    /* align-content: center !important; */
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.ChekformDBtn2{
+    background-color:#f57224 !important;
+    width: 25ch !important;
+    color: #e7e3e1 !important;
+    font-size: 15px !important;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .ChekHead-form-1{
+        text-align: center !important;
+        /* width: 50%; */
+        /* border: 1px solid aqua;  */
+    }
+    .Chekgrid-1{
+        display: inline !important;
+        /* justify-content: center !important; */
+        /* width: 50% !important; */
+        /* border: 2px solid aqua !important;  */
+    }
+    .Chekgrid-grid{
+        display: inline !important;
+        /* border: 1px solid aqua; */
+        width: 100% !important;
+    }
+    .ChekformDBtn{
+        margin-top: 5%;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-bottom: 5%;
+    }
+    .ChekformDBtn2{
+    background-color:#f57224 !important;
+    width: 30ch !important;
+    color: #e7e3e1 !important;
+    font-size: 15px !important;
+}
+
+    .grid-1
+    {
+        display: inline !important;
+        align-content: center !important;
+        /* width: 100% !important; */
+/*  */
+        /* flex-direction: column !important; */
+        /* width: 100% !important; */
+        /* border: 1px solid red !important; */
+        /* align-items: center !important; */
+        /* padding-left: 120px !important; */}
+
+        .grid-grid1{
+            /* width: auto !important; */
+            /* height: auto !important; */
+            /* border: 1px solid red !important; */
+            /* width: 300% !important; */
+            /* margin-left: 4.5% !important; */
+        }
+        .grid-grid{
+            /* width: 500px !important; */
+            /* border: 1px solid ; */
+        }
+        .frmBtn{
+            display: inline-block !important;
+        }
+        .Cart-Main{
+            /* border: 1px solid red !important; */
+            /* width: auto !important; */
+        }
+        .pper{
+            /* border: 1px solid blue !important; */
+            width: 100% !important;
+        }
+        .pper-1{
+            /* width: 350% !important; */
+            /* border: 1px solid blue !important; */
+        }
+        .Cart-Main-1{
+            width: 17em !important;
+            /* border: 1px solid red !important; */
+            /* margin-left: 10%;
+            margin-right: 10%; */
+            justify-content:space-evenly !important;
+        }
+        .pper-1{
+            width: 17em !important;
+        }
+        .frmBtn{
+            display:flex !important;
+            flex-direction: row !important;
+            /* align-items: center !important; */
+            justify-content: space-between!important;
+            /* margin-top: -25px; */
+            /* margin-bottom: 5%; */
+            margin-right: 0%;
+            margin-left: 0%;
+        }
+
+        .countBtn{
+        display:flex !important;
+        flex-direction: column !important;
+        /* align-items: center !important; */
+        /* width: 0ch !important; */
+        /* border: 1px solid rgb(16, 17, 15); */
+        }
+
+        .countbtn{
+            font-size: 15px !important;
+            /* font-weight: bold !important; */
+            /* width: 2% !important; */
+            /* border: 1px solid olivedrab !important; */
+        }
+
+
+    }
